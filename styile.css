@@ -1,0 +1,29 @@
+h1{
+    color: #ff3c00;
+    font-family: "teddy bear";
+}
+h2{
+    color: #ffa600f5;
+}
+a{
+    color: green;
+}
+body{
+    background-color: #0091ff;
+}
+img{
+    width: 500px;
+    border: 5px #ffffff solid;
+    margin-left: 20px;
+}
+.bigtext{
+    font-size: 1.5rem;
+}
+a:hover {
+    color: #FF0000;
+    
+}
+@font-face {
+    font-family: "teddy bear";
+    src: url(fonts/teddy-bear.ttf);
+}
